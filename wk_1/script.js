@@ -25,7 +25,6 @@ console.log(arr[2]);
 
 let x = +"w123z";
 console.log(typeof(x));
-console.log(x);
 
 
 
