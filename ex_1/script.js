@@ -30,3 +30,5 @@ let appData = {
 console.log(appData.money);
 console.log(appData.timeData);
 console.log(appData.expenses);
+
+alert(Math.trunc(appData.money / 30));
