@@ -30,8 +30,7 @@ console.log(x);
 
 
 let q;
-let ad;
-let ass;
+
 q = prompt('Какое «официальное» название JavaScript?', '');
 
 if (q == 'ECMAScript') {
