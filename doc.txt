@@ -1,0 +1,17 @@
+git init
+
+git add -A
+git commit - m "description"
+
+git status
+git log
+
+git clone
+git pull
+git fetch js_test
+
+git push -u js_test master
+
+git remote -v
+git remote add js_test https://github.com/fljobpetrov/js_work.git
+
