@@ -31,7 +31,7 @@ console.log(x);
 
 let q;
 let k;
-
+let t;
 
 q = prompt('Какое «официальное» название JavaScript?', '');
 
